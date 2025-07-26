@@ -19,7 +19,7 @@ C:\Users\<Username>\AppData\LocalLow\semiwork\Repo\saves
 
 ## 🚀 How to Use
 
-1. Run the executable
+1. Run the executable (-As administrator-)
 2. Choose:
    - `1` to backup saves
    - `2` to restore from backup (confirmation required)
