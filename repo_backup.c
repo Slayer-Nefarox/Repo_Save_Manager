@@ -185,6 +185,4 @@ int main() {
 
         system("cls"); // Limpa tela antes do próximo loop
     }
-
-    return 0; // Nunca chega aqui, pois o while é infinito
 }
